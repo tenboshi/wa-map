@@ -749,6 +749,24 @@
                  "width":194.855,
                  "x":383.5725,
                  "y":1122.5655
+                }, 
+                {
+                 "height":33,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"\u5c0f\u585a\u30b4\u30b7\u30c3\u30af Pro M",
+                     "pixelsize":27,
+                     "text":"Kino-Village",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":382.5,
+                 "y":241.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -879,7 +897,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":27,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
