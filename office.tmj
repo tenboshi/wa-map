@@ -28,7 +28,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -59,7 +59,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -132,7 +132,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -204,7 +204,7 @@
          "name":"walls",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -237,7 +237,7 @@
                  "name":"furniture1",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":31,
                  "x":0,
                  "y":0
@@ -299,7 +299,7 @@
                  "name":"furniture3",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":31,
                  "x":0,
                  "y":0
@@ -451,7 +451,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -523,7 +523,7 @@
          "name":"above",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
