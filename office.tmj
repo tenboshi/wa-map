@@ -703,7 +703,7 @@
         {
          "columns":200,
          "firstgid":2956,
-         "image":"..\/wa-village-master\/tilesets\/GroundWorld.png",
+         "image":"tilesets\/GroundWorld.png",
          "imageheight":3840,
          "imagewidth":6400,
          "margin":0,
@@ -726,7 +726,7 @@
         {
          "columns":200,
          "firstgid":26956,
-         "image":"..\/wa-village-master\/tilesets\/AboveWorld.png",
+         "image":"tilesets\/AboveWorld.png",
          "imageheight":3840,
          "imagewidth":6400,
          "margin":0,
@@ -749,7 +749,7 @@
         {
          "columns":42,
          "firstgid":50956,
-         "image":"..\/wa-village-master\/tilesets\/bookshelves.png",
+         "image":"tilesets\/bookshelves.png",
          "imageheight":1030,
          "imagewidth":1348,
          "margin":0,
